@@ -3,6 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+issue/
 
 ### STS ###
 .apt_generated
